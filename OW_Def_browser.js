@@ -1,4 +1,3 @@
-<script type="text/javascript">
   var e = document.getElementsByClassName('external-link');
   for(var i=0;i<e.length;i++){
     e[i].addEventListener('click',function(event){
@@ -7,4 +6,3 @@
       return false;
     },false)
   }
-</script>
